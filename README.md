@@ -32,5 +32,5 @@ To edit paths and choose browser where the test is going to be run:
 Go to src/main/java/utils/Constants.java 
 And edit it.
 
-Note: 
+## Logs  📋
 To see logs go to src/test/resources/logs and open directly in documents folder, for any reason Intellij do not open .log files
